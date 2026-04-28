@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Sensitive data
+.env
+.env.local
+.env.*.local
+verified.json
+
+# Logs
+logs/
+*.log
